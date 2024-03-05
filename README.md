@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/juanbomfim22/juanbomfim22/assets/55420785/908d9d5d-b883-4b69-a378-4cb9a660bad6)
 
 ## 👨‍💻 Quem Sou
-Eu me chamo Juan, recém-formado em Engenharia de Computação pela Universidade Federal de Sergipe. Sou um entusiasta de tecnologia, desenvolvedor full-stack, e estou sempre aberto a colaborar em projetos e ideias inovadoras/disruptivas. Sinta-se à vontade para se conectar comigo aqui.
+Eu me chamo Juan, formado em Engenharia de Computação pela Universidade Federal de Sergipe (UFS). Sou um entusiasta de tecnologia, desenvolvedor full-stack, e estou sempre aberto a colaborar em projetos e ideias inovadoras. Sinta-se à vontade para se conectar comigo aqui 🙌😉.
 
 ---
 
@@ -30,8 +30,8 @@ Eu me chamo Juan, recém-formado em Engenharia de Computação pela Universidade
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📫 Entre em Contato
-- [LinkedIn](URL_DO_SEU_LINKEDIN)
-- [Email](mailto:juanbomfim22@gmail.com?subject=Olá,)
+- [LinkedIn](https://br.linkedin.com/in/juan-garbellotte-bomfim-063516201)
+- [Email](mailto:juanbomfim22@gmail.com)
 
 ---
 
